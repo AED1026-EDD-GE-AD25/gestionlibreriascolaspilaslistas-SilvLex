@@ -11,7 +11,6 @@ public class ListaDoble<T> {
         tamanio = 0;
     }
 
-    // getter
     public int getTamanio() {
         return tamanio;
     }
